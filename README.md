@@ -14,7 +14,7 @@
 
   The objective for this challenge is to design and implement a system that randomly generates sensible output by generalizing patterns found in an input text. This system should be able to produce unique sentences based on a model that I designed using the input text. Such a system could be useful for randomly generating poetry, song lyrics, or cryptic academic papers.
   The solution should:
- - Analyze the source text to build a model for your randomly generated sentences.
+ - Analyze the source text to build a model for randomly generated sentences.
  - Randomly generate unique sentences of user-defined length.
 
   
