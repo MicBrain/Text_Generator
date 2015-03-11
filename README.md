@@ -44,7 +44,13 @@ Another imortant part of this algorithm is having a function that will return a 
 Continue this process untill you reach the n-th word from the input file, where n is a user-defined length. This algorithm provides very interesting results. I will discuss some of these results in the next section.
 
 ### Examples
-
+ 
+ Example #1: Some portion fromFrom  Martin Luther King's I Have a Dream Speech:
+ 
+ Input file:
+ ''' 
+ dsfsdgf
+ '''
 
 
   
