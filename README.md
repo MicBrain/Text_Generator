@@ -30,6 +30,7 @@ For simplicity let's consider that those letters are just words. Now we are goin
  which means that (X, A) pair occurs twice in the whole data and (X, B) and (X, Z) pairs occur only once. Now we will keep a Sigma variable for our text such that Sigma = 2 + 1 + 1 = 4. As you have noticed Sigma contains information of the number of times we have a pair starting with X word. If you see that the probability of having A after X is higher than the probability of having B or Z after X, because the ration is 2:1:1 .
  
  In this algorithm it is very important of keeping the concept of ration. Let's say in our output file we will have X' instead of X, A' instead of A, B' instead of B and Z' instead of Z. However, the probability of having A' after X' still should be higher compared to the probability of having B' or X' after A'. Now, after having all this information let's associate certain values for successors of X word(A, B, Z). In order to associate those successors with certain values we will use the interval from 0, to Sigma -1. We can understand this concept using this small map:
+ 
                              A:-> (0, 1), B:-> (2), Z:->(3)
 
 This reason we associated two values (0 and 1) for A is because (X, A) pair occurs twice in the input text, and one value for B and Z words, because (A, B) and (A, Z) occurs only once. I just used this convention of ordering numbers, you could start associating A with 3, 4 and go down to 0 for B and Z(doesn't really matter).
