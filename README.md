@@ -21,9 +21,9 @@
 
    This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given data. Generator.java file provides the public API and TextGenerator.java file contains the actual implementation of the algorithm. In order to explain the logic of the algorithm I am going to show this simple example. Let's say our input.txt file contains following data:
    
-                              X A B C X B L M N K X Z D P
+                              X A B C X B L M N K X Z D P X A
                               
-For simplicity let's consider that those letters are just words. Now we are going to look at all possible pairs of words: (X, A), (A, B), (B, C), (C, X), (X, B), (B, L), (L, M), (M, N), (N, K), (K, X), (X, Z), (Z, D), (D, P).
+For simplicity let's consider that those letters are just words. Now we are going to look at all possible pairs of words: (X, A), (A, B), (B, C), (C, X), (X, B), (B, L), (L, M), (M, N), (N, K), (K, X), (X, Z), (Z, D), (D, P), (P, X), (X, A).
 
 
   
