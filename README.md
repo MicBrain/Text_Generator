@@ -41,6 +41,10 @@ Another imortant part of this algorithm is having a function that will return a 
 - Run through all successors of the word X and find the successor, whose associated value is equal to random_num,
 - Put that successor after our word X,
 
-Continue these process untill you reach the n-th word from the input file, where n is a user-defined length. This algorithm provides very interesting results. I will discuss some of these results in the next section.
+Continue this process untill you reach the n-th word from the input file, where n is a user-defined length. This algorithm provides very interesting results. I will discuss some of these results in the next section.
+
+### Examples
+
+
 
   
