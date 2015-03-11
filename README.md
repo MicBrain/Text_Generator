@@ -1,4 +1,4 @@
-# Text_Generator
+# Text Generator
 
 1. Introduction
 2. Algorithm
