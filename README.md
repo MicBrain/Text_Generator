@@ -27,7 +27,7 @@ For simplicity let's consider that those letters are just words. Now we are goin
 
                               X :-> (A, 2), (B, 1), (Z, 1), 
                               
- which means that (X, A) pair occurs twice in the whole data and (X, B) and (X, Z) pairs occur only once. 
+ which means that (X, A) pair occurs twice in the whole data and (X, B) and (X, Z) pairs occur only once. Now we will keep a Sigma variable for our text such that Sigma = 2 + 1 + 1 = 4. As you have noticed Sigma contains information of the number of times we have a pair starting with X word.
 
 
   
