@@ -19,7 +19,7 @@
  
 ### Algorithm
 
-   This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given data. Generator.java file provides the public API and TextGenerator.java file contains the actual implementation of the algorithm. In order to explain the logic of the algorithm I am going to show this simple example. Let's say our input.txt file contains following data:
+   This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given source. Generator.java file provides the public API and TextGenerator.java file contains the actual implementation of the algorithm. In order to explain the logic of the algorithm I am going to show this simple example. Let's say our input.txt file contains following data:
    
                                 X A B C X B L M N K X Z D P X A
                               
