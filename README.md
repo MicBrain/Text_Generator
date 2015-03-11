@@ -23,7 +23,8 @@
    
                               X A B C X B L M N K X Z D P X A
                               
-For simplicity let's consider that those letters are just words. Now we are going to look at all possible pairs of words: (X, A), (A, B), (B, C), (C, X), (X, B), (B, L), (L, M), (M, N), (N, K), (K, X), (X, Z), (Z, D), (D, P), (P, X), (X, A).
+For simplicity let's consider that those letters are just words. Now we are going to look at all possible pairs of words: (X, A), (A, B), (B, C), (C, X), (X, B), (B, L), (L, M), (M, N), (N, K), (K, X), (X, Z), (Z, D), (D, P), (P, X), (X, A). Now let's create a mapping data structure, that will map each word to its successor and the number of pairs between the word and its successor in the whole data. In this case we will consider only the example of X:
+ X :-> (A, 2), (B, 1), (Z, 1), which means that (X, A) pair occurs twice in the whole data and (X, B) and (X, Z) pairs occur only once. 
 
 
   
