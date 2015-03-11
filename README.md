@@ -8,4 +8,4 @@
 
 ### Introduction
 
-    This project has been assigned by the recruitment team of "Argonauts" in order to complete in 48 hours.
+This project has been assigned by the recruitment team of "Argonauts" in order to complete in 48 hours.
