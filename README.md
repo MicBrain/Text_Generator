@@ -23,7 +23,7 @@
    
                               X A B C X B L M N K X Z D P
                               
-For simplicity let's consider that those letters are just words.
+For simplicity let's consider that those letters are just words. Now we are going to look at all possible pairs of words: (X, A), (A, B), (B, C), (C, X), (X, B), (B, L), (L, M), (M, N), (N, K), (K, X), (X, Z), (Z, D), (D, P).
 
 
   
