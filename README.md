@@ -16,5 +16,8 @@
   The solution should:
  - Analyze the source text to build a model for randomly generated sentences.
  - Randomly generate unique sentences of user-defined length.
+ 
+### Algorithm
+
 
   
