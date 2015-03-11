@@ -66,4 +66,9 @@ Bernardo. Who's there? Francisco. Nay, answer me. Stand and unfold yourself. Ber
 Francisco. Bernardo? 5
 ```
 
+**Output file:**
+ ```
+The How there? Horatio. Bernardo? do no? Stand and bulwark yourself. I He. stay'd and matter. Francisco. Francisco. 5
+```
+
   
