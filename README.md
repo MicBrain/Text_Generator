@@ -35,6 +35,9 @@ For simplicity let's consider that those letters are just words. Now we are goin
 
 This reason we associated two values (0 and 1) for A is because (X, A) pair occurs twice in the input text, and one value for B and Z words, because (A, B) and (A, Z) occurs only once. I just used this convention of ordering numbers, you could start associating A with 3, 4 and go down to 0 for B and Z (doesn't really matter).
 
-Another imortant part of this algorithm is having a function that will return a random number between the interval of lower bound and the upper bound.
+Another imortant part of this algorithm is having a function that will return a random number between the interval of lower bound and the upper bound. Now when we start creating our output file, the implementation is going to look like this:
+- Take word X, get it's Sigma value
+- Get a random value between the interval of 0 and Sigma - 1(let's name it random_num),
+- Run through all successors of the word X and find the successor, whose associated value is equal to random_num),
 
   
