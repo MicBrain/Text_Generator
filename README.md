@@ -39,8 +39,8 @@ Another imortant part of this algorithm is having a function that will return a 
 - Take word X, get it's Sigma value
 - Get a random value between the interval of 0 and Sigma - 1(let's name it random_num),
 - Run through all successors of the word X and find the successor, whose associated value is equal to random_num,
-- Put that successor after our word X.
-- Continue these process untill you reach the n-th word from the input file, where n is a user-defined length.
+- Put that successor after our word X,
+- - Continue these process untill you reach the n-th word from the input file, where n is a user-defined length.
 
    This algorithm provides very interesting results. I will discuss some of these results in the next section.
 
