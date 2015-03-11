@@ -45,7 +45,7 @@ Continue this process untill you reach the n-th word from the input file, where 
 
 ### Examples
  
- Example #1: Some portion fromFrom  Martin Luther King's I Have a Dream Speech:
+ Example #1: Some portion from  Martin Luther King's I Have a Dream Speech:
  
  **Input file:**
  
@@ -58,5 +58,6 @@ Continue this process untill you reach the n-th word from the input file, where 
   Be say happy to believe with the have in the will be back in the of usual. Negro demonstration for many ring, the chains as our nation And score years later, a state American, in the symbolic shadow we face up have the mighty Proclamation.
 ```
 
+ Example #2: Some portion from  Shakespeare's Hamlet:
 
   
