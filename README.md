@@ -19,7 +19,7 @@
  
 ### Algorithm
 
-   This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given data. 
+   This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given data. Generator.java file provides the public API and TextGenerator.java file contains the actual implementation of the algorithm.
 
 
   
