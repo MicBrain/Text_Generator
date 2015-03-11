@@ -50,7 +50,7 @@ Continue this process untill you reach the n-th word from the input file, where 
  **Input file:**
  
 ```
-dfdg
+  I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation. Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.
 ```
 
 
