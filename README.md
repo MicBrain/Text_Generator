@@ -19,5 +19,7 @@
  
 ### Algorithm
 
+   This algorithm has been developed mainly for Big Data, because the general idea is based on the size of the given data. 
+
 
   
