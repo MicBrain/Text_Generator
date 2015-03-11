@@ -54,6 +54,9 @@ Continue this process untill you reach the n-th word from the input file, where 
 ```
 
 **Output file:**
+```
+  Be say happy to believe with the have in the will be back in the of usual. Negro demonstration for many ring, the chains as our nation And score years later, a state American, in the symbolic shadow we face up have the mighty Proclamation.
+```
 
 
   
