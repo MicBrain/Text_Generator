@@ -1,2 +1,5 @@
 # Text_Generator
-An API that helps to randomly generate sensible output by generalizing patterns found in an input text.
+
+1. Introduction
+2. Algorithm
+3. Examples
