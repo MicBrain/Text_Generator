@@ -62,7 +62,8 @@ Continue this process untill you reach the n-th word from the input file, where 
  
  **Input file:**
  ```
-fdfdsg
+Bernardo. Who's there? Francisco. Nay, answer me. Stand and unfold yourself. Bernardo. Long live the King!
+Francisco. Bernardo? 5
 ```
 
   
